@@ -1,0 +1,24 @@
+[
+    {
+        "nombre": "Juan" ,
+        "capacidadDePagoEnCuotas": 20000,
+        "capacidadDePagoTotal": 100000
+        },
+        {
+            "nombre": "Carlos" ,
+            "capacidadDePagoEnCuotas": 200000,
+            "capacidadDePagoTotal": 1000000
+            },
+            {
+                "nombre": "Sasuke" ,
+                "capacidadDePagoEnCuotas": 240000,
+                "capacidadDePagoTotal": 1000300
+                },
+                {
+                    "nombre": "Naruto" ,
+                    "capacidadDePagoEnCuotas": 900000,
+                    "capacidadDePagoTotal": 2000000
+                    }
+        
+    
+]
